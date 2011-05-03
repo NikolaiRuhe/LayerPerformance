@@ -1,0 +1,9 @@
+.DS_Store
+.LSOverride
+*.orig
+*.mode1v3
+*.pbxuser
+*.perspectivev3
+*.ignore
+xcuserdata
+build
